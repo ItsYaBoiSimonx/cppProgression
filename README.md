@@ -2,7 +2,7 @@
 This is going to be a repository where i store and document all the progression i can manage to pump out during the holidays.
 
 <h3 align="center"> n.1 - classesmybeloved</h3>
-<h6>(i probably should've stored this in a single folder)</h6>
+<h6 align="center">(i probably should've stored this in a single folder)</h6>
 
 A simple project where i test my first genuinely functioning class ("Human") and experiment with external imports (and .h files, so my projects arent completely condensed in a single file)
 
