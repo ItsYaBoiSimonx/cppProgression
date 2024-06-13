@@ -1,0 +1,4 @@
+﻿  classesmybeloved.cpp
+C:\Users\ttcli\source\repos\classesmybeloved\classesmybeloved\classesmybeloved.cpp(57,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ttcli\source\repos\classesmybeloved\classesmybeloved\classesmybeloved.cpp(58,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  classesmybeloved.vcxproj -> C:\Users\ttcli\source\repos\classesmybeloved\x64\Debug\classesmybeloved.exe
